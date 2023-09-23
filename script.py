@@ -2,8 +2,8 @@ import os
 import requests
 
 # Airtable Base and API Key
-API_URL = "https://api.airtable.com/v0/appXXXXXXXXX/TableName"
-API_KEY = "keyXXXXXXXXXXX"
+API_URL = "https://api.airtable.com/v0/tblryqOlCkF1rMNIC/tblryqOlCkF1rMNIC"
+API_KEY = "keyZR6MYbClWonvbA"
 
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
